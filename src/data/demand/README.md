@@ -3,3 +3,5 @@
 - Unemployment rate
 - Currency exchange rate
 - Mortgage rate
+- Income units
+- Interest rate
