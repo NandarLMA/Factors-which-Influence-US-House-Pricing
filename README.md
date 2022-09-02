@@ -1,6 +1,15 @@
 # Factors-which-Influence-US-House-Pricing
 
-## Supply Data Conclusion 
+##Problem Statement : Build a model using publicly available data for key NATIONAL Demand and Supply Factors that could influence US home prices. Explain how those factors impacted home prices over the last 20 years.
+
+
+## Supply Data
+
+- Building Permits
+- New Owned Housing Unit
+- House Sold Unit
+- Monthly New House Supply
+- Construction Spending
 
 #### Data Distribution
 
@@ -10,7 +19,7 @@
 - Most of the new house in the dataset sold are between 250 and 750 Unit.
 - House prices are mostly less than 200 Unit.
 
-#### Correlation
+#### The Correlation 
 
 - There is a strong and positive linear relationship between House Pricing and Construction Spending amonut. (85%)
 - The relationship between House Pricing and Building Permits is approximately 30%.
@@ -22,7 +31,14 @@
 Tested with 6 different algorithms and Polynomial Regression model was chosen as a final model for the Supply data.
 Since it has lowest error rate (0.02) and highest testing accuracy (98%).
 
-## Demand Data Conclusion
+## Demand Data 
+
+- GDP
+- Unemployment rate
+- Currency exchange rate
+- Mortgage rate
+- Disposable Income 
+- Interest rate
 
 #### Data Distribution
 
@@ -32,7 +48,7 @@ Since it has lowest error rate (0.02) and highest testing accuracy (98%).
 - Most of the Currency Exchange rates are between 10 and 14 units.
 - Most of the Interest rate is less than 4 unit.
 
-#### Correlation
+#### The Correlation
 - There is a strong and positive linear relationship between House Pricing and GDP. (87%)
 - Disposable Personal income and House Pricing also has a positive linear relationship (86%)
 - The relationship between House Pricing and Currency Exchange rate is approximately 20% in positive way.
