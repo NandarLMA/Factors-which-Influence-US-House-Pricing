@@ -2,4 +2,4 @@
 
 - Handling Missing Values
 - Handling Outlier Data
-- Calculate average monthly Data
+- Calculate average value for each month
