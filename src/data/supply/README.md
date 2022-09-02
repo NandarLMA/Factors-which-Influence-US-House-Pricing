@@ -1,2 +1,7 @@
 ### Supply Data
-http://censtats.census.gov/bldg/bldgprmt.shtml
+
+- Building Permits
+- New Owned Housing Unit
+- House Sold Unit
+- Monthly New House Supply
+- Construction Spending
