@@ -12,9 +12,9 @@
     
 - Code
   - Pre-processing
-    - pre-processing notebooks for each data attribute
+    - pre-processing notebook for each data attribute
   - Models
-    - regression models notebooks for both Supply and Demand
+    - regression model notebooks for both Supply and Demand
   - Visualization
     - Supply data visualization
     - Demand data visualization
